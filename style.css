@@ -56,8 +56,8 @@ body {
 .button {
   padding: 10px 20px;
   background-color: transparent;
-  text-decoration: none;
   background: #ffd900;
+  text-decoration: none;
   box-shadow: 27px 27px 55px #1f374b, -27px -27px 55px #13202d;
   /* border: 0.5px solid white; */
 color: black;
