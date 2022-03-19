@@ -60,7 +60,7 @@ body {
   text-decoration: none;
   box-shadow: 27px 27px 55px #1f374b, -27px -27px 55px #13202d;
   /* border: 0.5px solid white; */
-color: black;
+  color: black;
   font-size: 15px;
   margin-top: 15px;
   border-radius: 5px;
@@ -70,6 +70,6 @@ color: black;
 .button:hover {
   /* background-color: rgba(68, 196, 255, 0.349);
   /* background-color: rgba(255, 255, 255, 0.199); */
-  border-style: dashed; */
+  border-style: dashed;
   box-shadow: rgba(86, 170, 255, 0.555) 0px 0px 1000px 20px;
 }
